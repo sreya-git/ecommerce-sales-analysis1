@@ -1,9 +1,17 @@
-# ecommerce-sales-analysis1
+# ecommerce-sales-analysis
 E-Commerce Sales Analysis using Python, Pandas, Matplotlib, and A/B Testing to generate business insights.
 # E-Commerce Sales Analysis & A/B Testing
 
 ## Project Overview
 This project analyzes e-commerce sales data to identify business trends, regional performance, and category-wise sales patterns.
+
+## 🎯 Objectives
+
+- Analyze sales performance across different categories.
+- Identify top-performing products and regions.
+- Discover customer purchasing patterns.
+- Perform A/B testing to evaluate business strategies.
+- Generate actionable insights through visualizations.
 
 ## Tools Used
 - Python
